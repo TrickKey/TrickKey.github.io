@@ -8,12 +8,8 @@ summary: "About this blog"
 active: about
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+This page is [Sloth's_Blog](https://trickkey.github.io/)
 
-You can find the source code for the Jekyll new theme at:
-{{site.twitter_username}} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+My Facebook Page is [Facebook_Page](https://www.facebook.com/Sologer.Rootix)
 
-You can find the source code for Jekyll at
-{{site.github_username}} /
-[jekyll](https://github.com/jekyll/jekyll)
+My Github is [My_Github](https://github.com/TrickKey)
