@@ -15,5 +15,5 @@ def print_hi(name)
   puts "Hi, #{name}"
 end
 print_hi('Sloth')
-#=> prints 'Hi, Tom' to STDOUT.
+#=> prints 'Hi, Sloth' to STDOUT.
 {% endhighlight %}
