@@ -10,4 +10,4 @@ tags: ['Lord-of-SQLinjection']
 author: redVi
 ---
 
-[![LoS.jpg]({{ site.images | relative_url }}/Webhacking.jpg)]({{ site.images | relative_url }}/LoS.jpg)
+[![LoS.jpg]({{ site.images | relative_url }}/LoS.jpg)]({{ site.images | relative_url }}/LoS.jpg)
